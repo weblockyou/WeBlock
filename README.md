@@ -23,7 +23,7 @@ Then I created this project, the name of "WeBlock" means "We can Block you witho
 
 I want other people to tell us the likely story in this project, and try to do some action to stop the blocking action by social platfrom.   
 
-Our world need open instead of close. 
+Our world needs OPEN not CLOSE. 
 
 
  
