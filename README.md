@@ -23,13 +23,20 @@ Then I created this project, the name of "WeBlock" means "We can Block you witho
 
 I want other people to tell us the likely story in this project, and try to do some action to stop the blocking action by social platfrom.   
 
-Our world needs OPEN not CLOSE. 
+> ***Our world needs OPEN not CLOSE***
 
+ 
 
-## Story List
+## Story
+
+You can create you story in this repo, 
+**please check "story" directory**.
+
+All the story is listed as following.
 
 | platform | id | link | desc |
 | -------- | -- | ---- | ---- |
-| wechat | df595149790 | [MainPage](https://df595149790.github.io/wechatblock/index) | If you cannot access the MainPage, please try this [OptionPage](https://github.com/df595149790/df595149790.github.io/blob/master/wechatblock/index.md) |
+| wechat | df595149790 | [MainPage](https://df595149790.github.io/wechatblock/index) | If MainPage cannot accessed, try [OptionPage](https://github.com/df595149790/df595149790.github.io/blob/master/wechatblock/index.md) |
+| wechat | tangminghui | | [RepoImage](https://github.com/weblockyou/WeBlock/blob/master/story/wechat_tangminghui_20200825.jpg) |
  
  
