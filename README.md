@@ -26,4 +26,10 @@ I want other people to tell us the likely story in this project, and try to do s
 Our world needs OPEN not CLOSE. 
 
 
+## Story List
+
+| platform | id | link | desc |
+| -------- | -- | ---- | ---- |
+| wechat | df595149790 | [MainPage](https://df595149790.github.io/wechatblock/index) | If you cannot access the MainPage, please try this [OptionPage](https://github.com/df595149790/df595149790.github.io/blob/master/wechatblock/index.md) |
+ 
  
