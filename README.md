@@ -10,7 +10,7 @@ But there is NO description to tell the blocking reason.
 DF want to know the detail, then he start appeal according to the WeChat Blocking Appeal Guideline released by Tencent. 
 When he send an appeal request, the next day Tencent will send him a response which only contains words like 
 ```
-You breaks XXX Law, please obey YYY Law.
+You breaks XXX Rule, please obey YYY Law.
 ```
 This is not what DF want to known, he want the detail reason of blocking. 
 Then DF start a new appeal request when he receive the wrong response. 
