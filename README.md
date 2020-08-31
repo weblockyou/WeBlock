@@ -30,7 +30,9 @@ We can Block you without any reason
 
 I want other people to tell the same like story in this project, and try to stop the blocking action by social platfrom.   
 
-> **Our world needs OPEN not CLOSE**
+
+> # We need OPEN not CLOSE
+
  
  
 
@@ -43,7 +45,7 @@ All the story is listed as following.
 | platform | id | link | desc |
 | -------- | -- | ---- | ---- |
 | wechat | df595149790 | [MainPage](https://df595149790.github.io/wechatblock/index) <br> [OptionPage](https://github.com/df595149790/df595149790.github.io/blob/master/wechatblock/index.md) | Blocked for months. |
-| wechat | tangminghui | [RepoImage1](https://github.com/weblockyou/WeBlock/blob/master/story/wechat_tangminghui_20200825.jpg) <br>  [RepoImage2](https://github.com/weblockyou/WeBlock/blob/master/story/wechat_tangminghui_20200829.png) | He has died. Policy said he is suicide when he was in Tencent building to find the blocking reason.  |
+| wechat | tangminghui | [RepoImage1](https://github.com/weblockyou/WeBlock/blob/master/story/wechat_tangminghui_20200825.jpg) <br>  [RepoImage2](https://github.com/weblockyou/WeBlock/blob/master/story/wechat_tangminghui_20200829.png) | He has died. Policy said he suicided when he was in Tencent building to find the blocking reason.  |
 
 
 
