@@ -42,8 +42,8 @@ All the story is listed as following.
 
 | platform | id | link | desc |
 | -------- | -- | ---- | ---- |
-| wechat | df595149790 | [MainPage](https://df595149790.github.io/wechatblock/index) | [OptionPage](https://github.com/df595149790/df595149790.github.io/blob/master/wechatblock/index.md) |
-| wechat | tangminghui | [RepoImage1](https://github.com/weblockyou/WeBlock/blob/master/story/wechat_tangminghui_20200825.jpg) <br>  [RepoImage2](https://github.com/weblockyou/WeBlock/blob/master/story/wechat_tangminghui_20200829.png) | |
+| wechat | df595149790 | [MainPage](https://df595149790.github.io/wechatblock/index) <br> [OptionPage](https://github.com/df595149790/df595149790.github.io/blob/master/wechatblock/index.md) | Blocked for months. |
+| wechat | tangminghui | [RepoImage1](https://github.com/weblockyou/WeBlock/blob/master/story/wechat_tangminghui_20200825.jpg) <br>  [RepoImage2](https://github.com/weblockyou/WeBlock/blob/master/story/wechat_tangminghui_20200829.png) | He has died. Policy said he is suicide when he was in Tencent building to find the blocking reason.  |
 
 
 
